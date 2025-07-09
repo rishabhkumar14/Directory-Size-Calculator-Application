@@ -150,7 +150,3 @@ To extend the application:
 - The test suite validates core functionality and edge cases
 - Tests are organized by component for easy debugging
 - All tests use assertions to verify expected behavior
-
-## License
-
-This project is open source and available under the MIT License.
