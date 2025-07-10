@@ -253,7 +253,7 @@ def get_available_tests():
         "1": ("File Model", test_file_model),
         "2": ("Directory Model", test_directory_model),
         "3": ("FileSystem Operations", test_filesystem_operations),
-        "4": ("Command Processor", test_command_processor),
+        "4": ("Command Processor Test", test_command_processor),
         "5": ("Formatters", test_formatters),
         "6": ("Sample Filesystem", test_sample_filesystem),
         "7": ("Edge Cases", test_edge_cases),
